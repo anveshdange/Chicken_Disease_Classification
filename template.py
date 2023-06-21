@@ -32,8 +32,8 @@ LIST_OF_FILES: Set[str] = {
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    "test.py"
-
+    "test.py",
+    "templates/index.html"
 }
 
 for path in LIST_OF_FILES:
